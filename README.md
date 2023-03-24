@@ -1,5 +1,6 @@
 # Developing-two-Python-classes
-Developed two Python classes to check four linearity assumptions for any preprocessed data set and to determine suitable machine learning models for regression problemsDeveloped
+Developed two Python classes to check four linearity assumptions for any preprocessed data set and to determine suitable machine learning models for regression problems.
+
 In this project we developed two classes :
 • 1st Class: automatically checks all four linearity assumptions for any data set
 This Class takes the dataset and response variable and automatically checks all the assumptions.
